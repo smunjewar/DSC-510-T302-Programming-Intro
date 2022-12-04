@@ -1,0 +1,357 @@
+E:\Data_Science_DSC510\DSC510-Python_Programming\Scripts\python.exe E:\Data_Science_DSC510\DSC510-Python_Programming\DSC510-week-12-Final\DSC51-Week-12-FinalProject-Munjewar.py 
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: Omaha,NE
+
+----------------------------------------------------------------------
+Omaha temperature forecast :                      
+----------------------------------------------------------------------
+          Current temperature : -9.59°C or 14.74°F
+              Max temperature : -8.20°C or 17.24°F
+              Min temperature : -10.65°C or 12.83°F
+                     Humidity : 68.00%
+                   Wind Speed : 14.97m/s
+                     Pressure : 1031hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-18 07:15:38 local time.
+                   Sun Set at : 2022-11-18 17:02:33 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: Omaha,TX
+
+----------------------------------------------------------------------
+Omaha temperature forecast :                      
+----------------------------------------------------------------------
+          Current temperature : 3.94°C or 39.09°F
+              Max temperature : 5.03°C or 41.05°F
+              Min temperature : 3.94°C or 39.09°F
+                     Humidity : 61.00%
+                   Wind Speed : 5.79m/s
+                     Pressure : 1030hPa
+               Cloud Coverage : Full Cloud Cover.
+                 Sun Rises at : 2022-11-18 06:52:52 local time.
+                   Sun Set at : 2022-11-18 17:15:46 local time.
+              General Weather : broken clouds
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 68130
+
+----------------------------------------------------------------------
+Douglas temperature forecast :                    
+----------------------------------------------------------------------
+          Current temperature : -9.65°C or 14.63°F
+              Max temperature : -8.42°C or 16.84°F
+              Min temperature : -10.87°C or 12.43°F
+                     Humidity : 68.00%
+                   Wind Speed : 11.50m/s
+                     Pressure : 1030hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-18 07:16:30 local time.
+                   Sun Set at : 2022-11-18 17:03:32 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): 68106
+Invalid Input : 68106, Please try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 68106
+
+----------------------------------------------------------------------
+Ralston temperature forecast :                    
+----------------------------------------------------------------------
+          Current temperature : -9.62°C or 14.68°F
+              Max temperature : -8.27°C or 17.11°F
+              Min temperature : -10.71°C or 12.72°F
+                     Humidity : 68.00%
+                   Wind Speed : 14.97m/s
+                     Pressure : 1031hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-18 07:15:50 local time.
+                   Sun Set at : 2022-11-18 17:02:50 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: jfsdljfs
+Invalid Input- ['jfsdljfs'], Please try again.
+Return Code - None
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: lksdjfsdj,fsdfsdsf
+No result found, try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: lkjkllkj,dsdfs,sdffsd
+Invalid Input- ['lkjkllkj', 'dsdfs', 'sdffsd'], Please try again.
+Return Code - None
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 493729347
+Result not found or Invalid Input,please try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 68130
+
+----------------------------------------------------------------------
+Douglas temperature forecast :                    
+----------------------------------------------------------------------
+          Current temperature : -9.65°C or 14.63°F
+              Max temperature : -8.42°C or 16.84°F
+              Min temperature : -10.87°C or 12.43°F
+                     Humidity : 68.00%
+                   Wind Speed : 11.50m/s
+                     Pressure : 1030hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-18 07:16:30 local time.
+                   Sun Set at : 2022-11-18 17:03:32 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): 
+Invalid Input : , Please try again.
+OpenWeather UI, Press y to continue and q to quit(): 
+Invalid Input : , Please try again.
+OpenWeather UI, Press y to continue and q to quit(): q
+Thanks for visiting !
+
+Process finished with exit code 0
+
+
+
+
+
+E:\Data_Science_DSC510\DSC510-Python_Programming\Scripts\python.exe E:\Data_Science_DSC510\DSC510-Python_Programming\DSC510-week-12-Final\DSC51-Week-12-FinalProject-Munjewar.py 
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: Omaha,NE
+
+----------------------------------------------------------------------
+Omaha temperature forecast :                      
+----------------------------------------------------------------------
+          Current temperature : -4.57°C or 23.77°F
+              Max temperature : -3.19°C or 26.26°F
+              Min temperature : -6.15°C or 20.93°F
+                     Humidity : 69.00%
+                   Wind Speed : 6.91m/s
+                     Pressure : 1027hPa
+               Cloud Coverage : Full Cloud Cover.
+                 Sun Rises at : 2022-11-16 07:13:15 local time.
+                   Sun Set at : 2022-11-16 17:04:06 local time.
+              General Weather : overcast clouds
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: Omaha,TX
+
+----------------------------------------------------------------------
+Omaha temperature forecast :                      
+----------------------------------------------------------------------
+          Current temperature : 0.94°C or 33.69°F
+              Max temperature : 3.92°C or 39.06°F
+              Min temperature : 0.94°C or 33.69°F
+                     Humidity : 72.00%
+                   Wind Speed : 5.55m/s
+                     Pressure : 1033hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-16 06:51:01 local time.
+                   Sun Set at : 2022-11-16 17:16:47 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: Omaha,TX
+
+----------------------------------------------------------------------
+Omaha temperature forecast :                      
+----------------------------------------------------------------------
+          Current temperature : 0.94°C or 33.69°F
+              Max temperature : 3.92°C or 39.06°F
+              Min temperature : 0.94°C or 33.69°F
+                     Humidity : 72.00%
+                   Wind Speed : 5.55m/s
+                     Pressure : 1033hPa
+               Cloud Coverage : Clear Sky.
+                 Sun Rises at : 2022-11-16 06:51:01 local time.
+                   Sun Set at : 2022-11-16 17:16:47 local time.
+              General Weather : clear sky
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 123213113
+Result not found or Invalid Input,please try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 231926,4241
+Invalid Input- ['231926', '4241'], Please try again.
+Return Code - None
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: lsjlsfjs
+Invalid Input- ['lsjlsfjs'], Please try again.
+Return Code - None
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: jk;asja;lj,rwerwer
+No result found, try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: kjsdhjkhgksdgh,dslkgj
+No result found, try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 87
+Result not found or Invalid Input,please try again.
+OpenWeather UI, Press y to continue and q to quit(): y
+
+----------------------------------------------------------------------
+         OpenWeatherApp UI (Search scope limited to US only.)         
+----------------------------------------------------------------------
+Expected inputs - City,State or Zip Code                              
+Example : City,State - Omaha,NE                                       
+Example : Zip Code - 68130                                            
+----------------------------------------------------------------------
+Enter City Name,State or Zip Code: 68130
+
+----------------------------------------------------------------------
+Douglas temperature forecast :                    
+----------------------------------------------------------------------
+          Current temperature : -4.18°C or 24.48°F
+              Max temperature : -2.90°C or 26.78°F
+              Min temperature : -6.37°C or 20.53°F
+                     Humidity : 64.00%
+                   Wind Speed : 1.99m/s
+                     Pressure : 1025hPa
+               Cloud Coverage : Full Cloud Cover.
+                 Sun Rises at : 2022-11-16 07:14:07 local time.
+                   Sun Set at : 2022-11-16 17:05:05 local time.
+              General Weather : overcast clouds
+----------------------------------------------------------------------
+OpenWeather UI, Press y to continue and q to quit(): 
